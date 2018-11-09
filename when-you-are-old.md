@@ -36,7 +36,7 @@ And paced upon the mountains overhead
 And hid his face amid a crowd of stars.
 ```
 
-作者简介：
+译者简介：
 
 我是早年留学生，现定居美国。1991 年在美国创办了中文诗歌网，据解滨考证，是史上第一个在互联网上交流中文诗歌的平台。
 
