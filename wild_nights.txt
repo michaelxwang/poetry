@@ -1,38 +1,23 @@
 艾米莉·狄金森《疯狂之夜》
-麦克王译
+麦克译
 
-Wild Nights - Wild Nights
-Were I with thee
-与君同享夜疯狂
-Wild Nights should be
-Our luxury!
-疯狂长夜乐无疆
+疯狂之夜
+愿与君享
+良宵本应
+奢华不央
 
-Futile - the winds -
-To the heart in port -
-心在港湾风无力
-Done with the compass -
-Done with the chart!
-抛弃海图不远航
+风儿无力
+心已入港
+抛弃海图
+不再远航
 
-Rowing in Eden -
-Ah, the sea!
-泛舟伊甸爱之海
-Might I but moor Tonight -
-In Thee!
-但愿今夜泊君旁
+伊甸泛舟
+爱的海洋
+我愿今夜
+停泊君旁
 
--
-
-艾米莉·狄金森《瘋狂之夜》
-麥克王譯
-
-與君同享夜瘋狂
-瘋狂長夜樂無疆
-心在港灣風無力
-拋棄海圖不遠航
-泛舟伊甸愛之海
-但願今夜泊君旁
+Wild Nights
+By Emily Dickinson
 
 Wild Nights - Wild Nights
 Were I with thee
@@ -48,3 +33,10 @@ Rowing in Eden -
 Ah, the sea!
 Might I but moor Tonight -
 In Thee!
+
+[comment]: # (與君同享夜瘋狂)
+[comment]: # (瘋狂長夜樂無疆)
+[comment]: # (心在港灣風無力)
+[comment]: # (拋棄海圖不遠航)
+[comment]: # (泛舟伊甸愛之海)
+[comment]: # (但願今夜泊君旁)
